@@ -23,9 +23,11 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpg)
+![Desktop View](./screenshots/faq-accordion-desktop-view.png)
+![Active State](./screenshots/faq-accordion-active-state.png)
+![Mobile View](./screenshots/faq-accordion-mobile-view.png)
 
 ### Links
 
